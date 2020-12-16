@@ -30,28 +30,28 @@ const NavBar = () => {
       <div className="nav-social-div">
         <a
           className="nav-link nav-social"
-          href="https://www.instagram.com/patucon/?hl=en"
+          href="https://www.instagram.com/jcantstaystill/"
           target="_blank"
         >
           <GrInstagram />
         </a>
         <a
           className="nav-link nav-social"
-          href="https://www.facebook.com/patucon.palante/"
+          href="https://www.facebook.com/jevon.cochran.3"
           target="_blank"
         >
           <FaFacebook />
         </a>
         <a
           className="nav-link nav-social"
-          href="https://twitter.com/patucon"
+          href="https://twitter.com/poeticmoves"
           target="_blank"
         >
           <FaTwitter />
         </a>
         <a
           className="nav-link nav-social"
-          href="https://vimeo.com/user11072765"
+          href="https://www.youtube.com/"
           target="_blank"
         >
           <FaYoutube />
