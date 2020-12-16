@@ -1,0 +1,8 @@
+{
+  "name": "Black-Diasporer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jevoncochran/Black-Diasporer.git",
+  "author": "Jevon Cochran <jevon.cochran@gmail.com>",
+  "license": "MIT"
+}
