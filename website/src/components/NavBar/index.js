@@ -1,14 +1,17 @@
 import React from "react";
 import "./NavBar.scss";
 import { GrInstagram } from "react-icons/gr";
-import { FaFacebook, FaTwitter, FaVimeoV, FaYoutube } from "react-icons/fa";
+import { FaFacebook, FaTwitter, FaYoutube } from "react-icons/fa";
 import { Link } from "react-router-dom";
 
 const NavBar = () => {
   return (
     <div className="nav">
       <div className="nav-logo-container">
-        <p>Black Diasporer</p>
+        <p>
+          <span className="nav-logo-first-letter">B</span>lack{" "}
+          <span className="nav-logo-first-letter">D</span>iasporer
+        </p>
       </div>
       <div className="nav-pages-div">
         <Link className="nav-link nav-page" to="/about">
