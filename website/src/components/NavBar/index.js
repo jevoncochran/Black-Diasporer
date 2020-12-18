@@ -1,7 +1,7 @@
 import React from "react";
 import "./NavBar.scss";
 import { GrInstagram } from "react-icons/gr";
-import { FaFacebook, FaTwitter, FaVimeoV, FaYoutube } from "react-icons/fa";
+import { FaFacebook, FaTwitter, FaYoutube } from "react-icons/fa";
 import { Link } from "react-router-dom";
 import logo from "../../assets/images/logo.png";
 
