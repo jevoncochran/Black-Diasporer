@@ -3,12 +3,13 @@ import "./NavBar.scss";
 import { GrInstagram } from "react-icons/gr";
 import { FaFacebook, FaTwitter, FaVimeoV, FaYoutube } from "react-icons/fa";
 import { Link } from "react-router-dom";
+import logo from "../../assets/images/logo.png";
 
 const NavBar = () => {
   return (
     <div className="nav">
       <div className="nav-logo-container">
-        <p>Black Diasporer</p>
+        <img className="nav-logo-img" src={logo} alt="Black Diasporer logo" />
       </div>
       <div className="nav-pages-div">
         <Link className="nav-link nav-page" to="/about">

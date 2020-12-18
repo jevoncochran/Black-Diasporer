@@ -13,7 +13,7 @@
 
 .rp-headline {
   text-align: center;
-  font-size: 3rem;
+  font-size: 3.5rem;
   margin-bottom: 1%;
 }
 
@@ -43,7 +43,7 @@
 }
 
 .rp-post-title {
-  font-size: 1.5rem;
+  font-size: 2.2rem;
   text-align: center;
   font-family: "Rubik", sans-serif;
   color: #000;
@@ -58,7 +58,7 @@
 .rp-blog-btn {
   width: 15%;
   height: 5vh;
-  font-size: 1.7rem;
+  font-size: 3.5rem;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -72,15 +72,15 @@
 
 .rp-blog-btn-content {
   display: flex;
-  //   border: 1px solid white;
-  width: 68%;
+  // border: 1px solid white;
+  width: 55%;
   justify-content: space-between;
 }
 
 .rp-blog-btn-arrow {
-  //   border: 1px solid white;
+  // border: 1px solid white;
   display: flex;
   align-items: center;
-  font-size: 2rem !important;
+  font-size: 3.5rem !important;
   font-weight: 700;
 }
